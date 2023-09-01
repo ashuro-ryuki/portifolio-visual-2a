@@ -7,7 +7,7 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 # Projeto - Apredendo a escrever um README 
-
+![image info](img/capa.png)
 ## Descrição
 
 ## Introdução
