@@ -7,7 +7,6 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 # Projeto - Apredendo a escrever um README 
-![image info](img/capa.png)
 ## Descrição
 Uma página que serve como imagem de capa/menu onde terá as opções de "início", "Novidades" e "Contatos", além de contar com a opção "Ler Mais" que será usada para um texto muito grande.
 Ao clicar em Início o usuário será direcionado para a capa/menu da página, onde estará o texto introdutivo sobre a página.
