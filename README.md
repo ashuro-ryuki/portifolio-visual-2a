@@ -71,6 +71,7 @@ Foram usadas o bootstrap para a estrutura inicial do site e o chat gpt para o me
 também foi pedida a ajuda de nosso porfessor de programação web Leonardo rocha
 
 links:
+
 https://getbootstrap.com/docs/5.0/examples/cover/
 
 https://leonardorocha.eti.br/
