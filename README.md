@@ -40,28 +40,28 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 
  
 
-**Novidades**: Redireciona o usuário para a página de novidades, onde são colocados todas as atualizações do portfólio.
+•  **Novidades**: Redireciona o usuário para a página de novidades, onde são colocados todas as atualizações do portfólio.
 
  
 
 
  
 
-**Contatos**: Redireciona o usuário para a página que contém formas de se comunicar com o administrador da página.
+•  **Contatos**: Redireciona o usuário para a página que contém formas de se comunicar com o administrador da página.
 
  
 
  
 
-**Ler mais**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
+•  **Ler mais**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
 
  
 
-**Bootstrap**: Redireciona o usuário para o site oficial do [**bootstrap**](https://getbootstrap.com/)
+•  **Bootstrap**: Redireciona o usuário para o site oficial do [**bootstrap**](https://getbootstrap.com/)
 
  
 
-**@mdo**: Redireciona o usuário para a página no twitter do criador da página. [**@mdo**](https://twitter.com/mdo)
+•  **@mdo**: Redireciona o usuário para a página no twitter do criador da página. [**@mdo**](https://twitter.com/mdo)
 
  
 ### Tecnologias ultilizadas
