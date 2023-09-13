@@ -36,7 +36,7 @@ Parte das novidades do site. É onde ficará as coisas novas, como novas opçõe
 
 Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com os Autores da página através do "Entre em Contato", para assim tirar duvidas ou fazer critícas construtivas.ass
 ## Funcionalidades
-![novidade](img/bot%C3%A3o%20novidade.png)
+
 
  
 
@@ -44,7 +44,6 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 
  
 
-![contatos](img/bot%C3%A3o%20contato.png)
 
  
 
@@ -52,23 +51,21 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 
  
 
-![ler-mais](img/bot%C3%A3o%20ler%20mais.png)
-
  
 
 **Ler mais**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
 
  
 
-**Bootstrap**: Redireciona o usuário para o site oficial do [bootstrap](https://getbootstrap.com/)
+**Bootstrap**: Redireciona o usuário para o site oficial do [**bootstrap**](https://getbootstrap.com/)
 
  
 
-**@mdo**: Redireciona o usuário para a página no twitter do criador da página. [@mdo](https://twitter.com/mdo)
+**@mdo**: Redireciona o usuário para a página no twitter do criador da página. [**@mdo**](https://twitter.com/mdo)
 
  
 ### Tecnologias ultilizadas
-Utilizamos o HTML para estruturar nossa página, incluindo texto e imagens. O CSS é responsável pelo design, como cores e layout. Juntos, eles tornam nossa página funcional e atraente.
+Utilizamos o **HTML** para estruturar nossa página, incluindo texto e imagens. O **CSS** é responsável pelo design, como cores e layout. Juntos, eles tornam nossa página funcional e atraente.
 ## Fontes consultadas
 Foram usadas o bootstrap para a estrutura inicial do site e o chat gpt para o melhoramento de textos e informações
 também foi pedida a ajuda de nosso porfessor de programação web Leonardo rocha
@@ -80,12 +77,12 @@ https://leonardorocha.eti.br/
 ## Autores
  
 
-**_Danilo Felype Lima_**
+[**_Danilo Felype Lima_**](https://github.com/DaniloFelype)
 
  
 
-**_Samuel Camargo de Farias_**
+[**_Samuel Camargo de Farias_**](https://github.com/SamuelCmdeFarias)
 
  
 
-**_Leonardo Fernando Freire Gomes de Souza_**
+[**_Leonardo Fernando Freire Gomes de Souza_**](https://github.com/ashuro-ryuki)
