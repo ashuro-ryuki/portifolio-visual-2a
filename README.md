@@ -36,7 +36,7 @@ Parte das novidades do site. É onde ficará as coisas novas, como novas opçõe
 
 Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com os Autores da página através do "Entre em Contato", para assim tirar duvidas ou fazer critícas construtivas.ass
 ## Funcionalidades
-[novidade](img/bot%C3%A3o%20novidade.png)
+![novidade](img/bot%C3%A3o%20novidade.png)
 
  
 
